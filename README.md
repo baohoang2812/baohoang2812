@@ -6,18 +6,9 @@
 <a href="https://github.com/baohoang2812">
   <img src="https://github-readme-stats.vercel.app/api?username=baohoang2812&hide=stars&show_icons=true&count_private=true&include_all_commits=true" align="right" />
 </a>
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :speech_balloon: &nbsp;I like to talk about anything
 - 💬 &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me: ...
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <br/>
 <!-- Top Langs-->
 <h2 align="left">Top used languages</h2>
@@ -26,6 +17,9 @@
   <a href="https://github.com/baohoang2812">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10"/></a> 
 </p>
+
+<!-- links -->
+[issues page]: https://github.com/baohoang2812/baohoang2812/issues "EdenHoang/issues"
 [linkedin]: https://www.linkedin.com/in/edenhoang/ "Eden Hoang LinkedIn"
 
  
