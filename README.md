@@ -45,7 +45,7 @@
   <br>
 </p>
 <br>
-<p><b>🔨 Tools & Technology</b></p>
+<h3><b>🔨 Tools & Technology</b></h3>
 <p>
   <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="kafka" height="42px"/> </a>
@@ -59,11 +59,10 @@
    <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height="42px"/> </a>
   <a href="https://material-ui.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height="42px"/> </a>
 </p>
-<br>
+
 <!-- Github stats-->
 <details>
   <summary><b>📊 Github Stats</b></summary>
-<h2 align="left">📊 Github Stats</h2>
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p>
   <a href="https://github.com/baohoang2812" align="left">
