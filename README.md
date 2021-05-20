@@ -11,10 +11,10 @@
     :speech_balloon: &nbsp;I like to talk about anything
   </li>
    <li>
-    💬 &nbsp;Ask me anything on my **[issues page]**
+     💬 &nbsp;Ask me anything on my <a href="https://github.com/baohoang2812/baohoang2812/issues" target="_blank"><b>issues page</b></a>
   </li>
    <li>
-    :computer: &nbsp;Connect with me on **[LinkedIn]**
+    :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/edenhoang/" target="_blank"><b>LinkedIn</b></a>
   </li>
 </ul>
 <br/>
@@ -26,8 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10"/></a> 
 </p>
 
-<!-- links -->
-[issues page]: https://github.com/baohoang2812/baohoang2812/issues "EdenHoang/issues"
+
 [linkedin]: https://www.linkedin.com/in/edenhoang/ "Eden Hoang LinkedIn"
 
  
