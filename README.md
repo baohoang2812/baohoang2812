@@ -7,12 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=baohoang2812&hide=stars&show_icons=true&count_private=true&include_all_commits=true" align="right" />
 </a>
 <p align="left">
-  <a href="https://github.com/baohoang2812">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
-  </a> 
-  <a href="www.giabaohoang.me">
+  <a href="http://www.giabaohoang.me">
   <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&style=for-the-badge&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
   </a> 
+  <a href="https://github.com/baohoang2812">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
+  </a>
 </p>
 <ul>
   <li>
@@ -39,7 +39,5 @@
   </a> 
 </p>
 
-
-[linkedin]: https://www.linkedin.com/in/edenhoang/ "Eden Hoang LinkedIn"
 
  
