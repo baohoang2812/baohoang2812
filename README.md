@@ -6,9 +6,17 @@
 <a href="https://github.com/baohoang2812">
   <img src="https://github-readme-stats.vercel.app/api?username=baohoang2812&hide=stars&show_icons=true&count_private=true&include_all_commits=true" align="right" />
 </a>
-- :speech_balloon: &nbsp;I like to talk about anything
-- 💬 &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<ul>
+  <li>
+    :speech_balloon: &nbsp;I like to talk about anything
+  </li>
+   <li>
+    💬 &nbsp;Ask me anything on my **[issues page]**
+  </li>
+   <li>
+    :computer: &nbsp;Connect with me on **[LinkedIn]**
+  </li>
+</ul>
 <br/>
 <!-- Top Langs-->
 <h2 align="left">Top used languages</h2>
