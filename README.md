@@ -10,8 +10,11 @@
   <a href="http://www.giabaohoang.me">
   <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&style=for-the-badge&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
   </a> 
-  <a href="https://github.com/baohoang2812">
+  <a href="https://twitter.com/edenbaohoang">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
+  </a>
+  <a href="https://github.com/baohoang2812">
+   <img src="https://komarev.com/ghpvc/?username=baohoang2812&label=Views">
   </a>
 </p>
 <ul>
