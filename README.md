@@ -11,16 +11,20 @@
     :speech_balloon: &nbsp;I like to talk about anything
   </li>
    <li>
-     💬 &nbsp;Ask me anything on my <a href="https://github.com/baohoang2812/baohoang2812/issues" target="_blank"><b>issues page</b></a>
+     📫 &nbsp;Ask me anything on my <a href="https://github.com/baohoang2812/baohoang2812/issues" target="_blank"><b>issues page</b></a>
   </li>
    <li>
     :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/edenhoang/" target="_blank"><b>LinkedIn</b></a>
   </li>
 </ul>
 <br/>
+<!-- Language and technology-->
+<h2 align="left">Language & Technology</h2>
+
+
 <!-- Top Langs-->
 <h2 align="left">Top used languages</h2>
-> NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.
+<blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p align="center">
   <a href="https://github.com/baohoang2812">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10"/></a> 
