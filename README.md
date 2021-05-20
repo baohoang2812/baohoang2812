@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="Eden GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baohoang2812&show_icons=true" />
+
+</details>
  
