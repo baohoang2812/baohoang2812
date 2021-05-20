@@ -63,15 +63,14 @@
 <!-- Github stats-->
 <h2 align="left">📊 Github Stats</h2>
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
-<p align="left">
-  <a href="https://github.com/baohoang2812">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10">
+<p>
+  <a href="https://github.com/baohoang2812" align="left">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=baohoang2812&theme=blood">
+  </a> 
+   <a href="https://github.com/baohoang2812" align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10&hide=DIGITAL%20Command%20Language">
   </a> 
 </p>
- <a href="https://github.com/baohoang2812" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10">
-  </a> 
-
 <p align="center">
   <a href="https://github.com/baohoang2812">
     <img src="https://raw.githubusercontent.com/baohoang2812/baohoang2812/master/dino.gif">
