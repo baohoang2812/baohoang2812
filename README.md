@@ -32,8 +32,10 @@
 <br/>
 <!-- Language and technology-->
 <h2 align="left">Language & Technology</h2>
+<p>
 <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a> 
-
+  <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a> 
+</p>
 
 <!-- Github stats-->
 <h2 align="left">📊 Github Stats</h2>
