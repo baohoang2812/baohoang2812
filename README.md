@@ -34,9 +34,11 @@
 <h2 align="left">Language & Technology</h2>
 <p>
 <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a> 
-  <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/> </a> 
+<a href="https://www.java.com/en/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
 </p>
-
+<br>
 <!-- Github stats-->
 <h2 align="left">📊 Github Stats</h2>
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
