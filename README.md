@@ -8,7 +8,7 @@
 </a>
 <p align="left">
   <a href="http://www.giabaohoang.me">
-  <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&style=for-the-badge&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
+  <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&logo=Firefox%20Browser&style=for-the-badge&up_color=%23353353&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
   </a> 
   <a href="https://twitter.com/edenbaohoang">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
