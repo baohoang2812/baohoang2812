@@ -4,7 +4,7 @@
   </a>
 </h1>
 <a href="https://github.com/baohoang2812">
-  <img src="https://github-readme-stats.vercel.app/api?username=baohoang2812&hide=stars&show_icons=true&count_private=true&include_all_commits=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baohoang2812&hide=stars&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&custom_title=Eden%20Hoang%27s%20Github%20Stats" align="right" />
 </a>
 <p align="left">
   <a href="http://www.giabaohoang.me">
