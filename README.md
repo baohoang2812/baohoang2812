@@ -73,8 +73,10 @@
   </a> 
 </p>
 <h3>Daily Music: </h3>
-<img src="https://novatorem.vercel.app/api/spotify">
-<h3>Give some ⭐ to show the ❤️</h3>
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify">
+</p>
+<h2 align="center">Give some stars ⭐ to show the love ❤️</h2>
 <p align="center">
   <a href="https://github.com/baohoang2812">
     <img src="https://raw.githubusercontent.com/baohoang2812/baohoang2812/master/dino.gif">
