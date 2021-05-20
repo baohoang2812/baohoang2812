@@ -33,7 +33,7 @@
 <br/>
 <!-- Language and technology-->
 <h2 align="left">🛠️ Language & Technology</h2>
-<p><b>🔧 Languages</b></p>
+<h3><b>🔧 Languages</b></h3>
 <p>
 <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/> </a> 
@@ -58,11 +58,11 @@
    <a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" alt="angular" height="42px"/> </a>
    <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height="42px"/> </a>
   <a href="https://material-ui.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" alt="material-ui" height="42px"/> </a>
+  <br>
 </p>
 
 <!-- Github stats-->
-<details>
-  <summary><b>📊 Github Stats</b></summary>
+<h3><b>📊 Github Stats</b></h3>
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p>
   <a href="https://github.com/baohoang2812" align="left">
@@ -72,7 +72,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=8&hide=DIGITAL%20Command%20Language">
   </a> 
 </p>
-</details>
 <p align="center">
   <a href="https://github.com/baohoang2812">
     <img src="https://raw.githubusercontent.com/baohoang2812/baohoang2812/master/dino.gif">
