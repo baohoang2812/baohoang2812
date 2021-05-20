@@ -6,6 +6,14 @@
 <a href="https://github.com/baohoang2812">
   <img src="https://github-readme-stats.vercel.app/api?username=baohoang2812&hide=stars&show_icons=true&count_private=true&include_all_commits=true" align="right" />
 </a>
+<p align="left">
+  <a href="https://github.com/baohoang2812">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
+  </a> 
+  <a href="www.giabaohoang.me">
+  <img alt="Website" src="https://img.shields.io/website?down_message=giabaohoang.me&style=for-the-badge&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
+  </a> 
+</p>
 <ul>
   <li>
     :speech_balloon: &nbsp;I like to talk about anything
@@ -27,7 +35,8 @@
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p align="center">
   <a href="https://github.com/baohoang2812">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10"/></a> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10">
+  </a> 
 </p>
 
 
