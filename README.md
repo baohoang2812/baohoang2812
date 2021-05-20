@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Eden GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=baohoang2812&show_icons=true" />
+  [![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=baohoang2812)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
  
