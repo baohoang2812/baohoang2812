@@ -11,7 +11,7 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a> 
   <a href="www.giabaohoang.me">
-  <img alt="Website" src="https://img.shields.io/website?down_message=giabaohoang.me&style=for-the-badge&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
+  <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&style=for-the-badge&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
   </a> 
 </p>
 <ul>
