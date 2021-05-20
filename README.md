@@ -11,13 +11,14 @@
   <img alt="Website" src="https://img.shields.io/website?label=giabaohoang&logo=Firefox%20Browser&style=for-the-badge&up_color=%23353353&up_message=me&url=http%3A%2F%2Fwww.giabaohoang.me%2F">
   </a> 
    <a href="https://github.com/baohoang2812">
-   <img src="https://komarev.com/ghpvc/?username=baohoang2812&label=Views">
+   <img src="https://komarev.com/ghpvc/?username=baohoang2812&label=Views&style=flat-square">
   </a>
   <a href="https://twitter.com/edenbaohoang">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/edenbaohoang?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a>
  
 </p>
+<h3>:octocat: About me:</h3>
 <ul>
   <li>
     :speech_balloon: &nbsp;I like to talk about anything
@@ -31,8 +32,8 @@
 </ul>
 <br/>
 <!-- Language and technology-->
-<h2 align="left">Language & Technology</h2>
-<p><b>Languages</b></p>
+<h2 align="left">🛠️ Language & Technology</h2>
+<p><b>🔧 Languages</b></p>
 <p>
 <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/> </a> 
@@ -44,7 +45,7 @@
   <br>
 </p>
 <br>
-<p><b>Tools & Technology</b></p>
+<p><b>🔨 Tools & Technology</b></p>
 <p>
   <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="kafka" height="42px"/> </a>
@@ -64,7 +65,7 @@
 <blockquote>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</blockquote>
 <p align="center">
   <a href="https://github.com/baohoang2812">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang2812&layout=compact&langs_count=10">
+    <img src="https://raw.githubusercontent.com/baohoang2812/baohoang2812/dino.gif">
   </a> 
 </p>
 
