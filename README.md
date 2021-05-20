@@ -74,8 +74,8 @@
 </p>
 <h3>Daily Music: </h3>
 <p align="center">
-  <a herf="https://open.spotify.com/user/omnitenebris" rel="nofollow">
-  <img src="https://novatorem.vercel.app/api/spotify">
+  <a href="https://open.spotify.com/user/omnitenebris">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="spotify">
   </a>
 </p>
 <h2 align="center">Give some stars ⭐ to show the love ❤️</h2>
